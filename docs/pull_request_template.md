@@ -1,5 +1,3 @@
-
-
 # Other Changes
 
 ### TODO: (optional) add any extra commit descriptions here
